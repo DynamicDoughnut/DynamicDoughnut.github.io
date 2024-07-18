@@ -1787,6 +1787,8 @@ input, select, textarea {
 	header.major h2 {
 		color: #106044;
 		font-size: 3.5em;
+		text-align: center;
+		
 	}
 
 		header.major h2 + p {
@@ -1795,6 +1797,7 @@ input, select, textarea {
 			font-weight: 700;
 			margin-top: -0.75em;
 		}
+
 
 /* Form */
 
@@ -2517,7 +2520,7 @@ input, select, textarea {
 
 				table.timeline tbody tr td:first-child {
 					border-color: #15513c;
-					border-right-width: 10px;
+					border-right-width: 3px;
 				}
 
 			table.timeline tbody tr:first-child td {
@@ -2728,7 +2731,7 @@ input, select, textarea {
 		-webkit-justify-content: space-between;
 		-ms-justify-content: space-between;
 		justify-content: space-between;
-		background: #106044;
+		background: #14ae7b;
 		color: #d2f2e9;
 		height: 100%;
 		overflow-y: auto;
@@ -2818,7 +2821,7 @@ input, select, textarea {
 			}
 
 				#header > nav ul li {
-					border-top: solid 2px #15513c;
+					border-top: solid 2px #139e72;
 					display: block;
 					padding: 0;
 				}
@@ -3105,7 +3108,7 @@ input, select, textarea {
 					}
 
 					#titleBar .toggle:before {
-						background: #106044;
+						background: #14ae7b;
 						color: #ffffff;
 						content: '\f0c9';
 						display: block;
